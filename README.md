@@ -17,7 +17,6 @@ VS Code の Dev Containers 拡張機能を使って、すぐに開発を始め�
 ## VS Code 拡張機能
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-- [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) — 保存時に自動フォーマット & インポート整理
 
 ## 前提条件
 
